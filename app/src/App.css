@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #eee;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+}
+#file-picker {
+  margin-bottom: 1rem;
+}
