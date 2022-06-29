@@ -5,12 +5,16 @@ Before start, on the api, change the value of the local upload directory (the cu
 
  
  - Run the server on api folder: 
+
+
  ```npm install```
  
  
  ```node index.js```
 
  - Run the webapp on api folder:
+
+
  ```npm install```
  
  
